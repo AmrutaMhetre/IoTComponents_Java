@@ -1,1 +1,2 @@
-# IoTComponents_Java
+# IoTComponents_Java #
+Created a comprehensive web application for managing IoT component records using Java GUI, OOP principles, and MySQL. The system supports secure login for admins, facilitates the adding and updating of IoT component details, distributes components, monitors inventory levels, and produces detailed reports. This solution streamlines inventory management for IoT components, ensuring precise and efficient data maintenance and availability monitoring. 
